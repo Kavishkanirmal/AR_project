@@ -8,6 +8,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/StartScreen.unity
     guid: 004ff2db8e5a1c148bacd7be60acbe47
+  - enabled: 1
+    path: Assets/Scenes/UserInput.unity
+    guid: c701a08b8a8cc2441989f49a00648b16
+  - enabled: 1
+    path: Assets/Scenes/NavigationScreen.unity
+    guid: c156cde0daad5f3488aa0fce2401c909
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
